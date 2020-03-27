@@ -1,7 +1,7 @@
 ---
 layout: article
 title: grails 文件上传
-#mathjax: true
+tags: Grails
 show_subscribe: false
 license: false
 footer: false
