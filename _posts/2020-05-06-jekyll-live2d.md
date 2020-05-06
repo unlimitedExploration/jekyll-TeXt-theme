@@ -7,7 +7,7 @@ footer: false
 ---
 ## 在 jekyll 静态网页上添加 live2d 看板娘
 **一个笨办法：借助 Hexo**
-*****
+
 ### 1. 安装 Hexo,创建项目
 [Hexo官网](https://hexo.io/zh-cn/docs/)
 ``` 
