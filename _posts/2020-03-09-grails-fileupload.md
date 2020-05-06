@@ -1,6 +1,6 @@
 ---
 layout: article
-title: grails 文件上传
+title: grails 文件上传和下载
 tags: Grails
 show_subscribe: false
 license: false
