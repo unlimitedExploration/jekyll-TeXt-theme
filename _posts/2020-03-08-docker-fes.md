@@ -1,7 +1,7 @@
 ---
 layout: article
 title: docker-compose 部署项目
-mathjax: true
+tags: Java,Docker
 show_subscribe: false
 license: false
 footer: false

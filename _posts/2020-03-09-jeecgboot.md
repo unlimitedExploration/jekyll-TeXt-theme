@@ -1,7 +1,7 @@
 ---
 layout: article
 title: jeecgboot 入门
-#mathjax: true
+tags: Java
 show_subscribe: false
 license: false
 footer: false
