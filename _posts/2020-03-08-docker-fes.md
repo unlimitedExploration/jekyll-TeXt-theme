@@ -1,7 +1,9 @@
 ---
 layout: article
 title: docker-compose 部署项目
-tags: Java,Docker
+tags: 
+  - Java
+  - Docker
 show_subscribe: false
 license: false
 footer: false
