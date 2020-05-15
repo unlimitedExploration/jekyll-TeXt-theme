@@ -10,4 +10,4 @@ footer: false
   [https://www.centos.org/download/mirrors/](https://www.centos.org/download/mirrors/)  
 
 ### 2. 打开 virtualbox 新建一个虚拟电脑
-  ![image](/assets/images/post_images/newvbox.png)
+  ![image](../assets/images/post_images/newvbox.png)
